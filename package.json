@@ -1,0 +1,14 @@
+{
+  "name": "oscar-financial-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personal financial education website with a secure contact form and SQLite lead database.",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "engines": {
+    "node": ">=22.5.0"
+  }
+}
